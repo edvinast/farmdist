@@ -1,0 +1,8 @@
+[package]
+name = "farmdist"
+version = "0.1.0"
+authors = ["edvinast <teiserse@tcd.ie>"]
+
+[dependencies]
+rand = "0.5.0"
+termion = "1.5.1"
